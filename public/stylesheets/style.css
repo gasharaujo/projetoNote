@@ -1,0 +1,61 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.adm{
+  background-color: #e8e8e8;
+}
+.login{
+  background: linear-gradient(-135deg, #FF4D4D, #f8ed62);
+}
+html, body{
+  height: 100%;
+  min-height: 100%;
+}
+a {
+  color: #00B7FF;
+}
+label{
+  text-align: right;
+  padding-top: 9px;
+  margin-bottom: 0;
+}
+.pull-right {
+  float: right;
+}
+.pagina{
+  background-color: #e8e8e8;
+  padding: 60px 50px 40px 50px;
+  border-radius: 25px;
+}
+
+div{padding: 1px;}
+
+.imageFit{
+  max-width: 80%;
+  max-height: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
+  padding-bottom: 25px;
+}
+.perfil{
+  height: 80px;
+  width: 80px;
+  border-radius: 100%;
+}
+.imageList{
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  display: inline-block;
+  max-width: 100%;
+  max-height: 40px;
+  height: auto;
+}
